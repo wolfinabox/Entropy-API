@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+env
+*.db
+test.py
+data
+examples
 # C extensions
 *.so
 
